@@ -1,4 +1,4 @@
-# AI-search-problems# AI-search-problems
+# AI-search-problems
 
 ### Description of Israel.csv file structure (location: db/Israel.zip/Israel.csv):
 Each row represents a junction on the map and contains information about it. <br />
